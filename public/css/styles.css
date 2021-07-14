@@ -1,0 +1,49 @@
+.heading
+{
+    opacity: unset;
+    font-family: auto;
+    font-weight: bolder;
+
+}
+.weather-div
+{
+  border-radius: 30px;
+  color: white;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+  line-height: 2rem;
+  background-color: pink;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  opacity: 0.6;
+
+}
+
+.btn
+{
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px !important;
+  border-radius: 30px;
+
+}
+
+#cityInput
+{
+  width: 100%;
+  margin-top: 50px;
+  border-style: none;
+  border-radius: 10px;
+  height: 40px;
+  color: black;
+}
+}
+
+.background
+{
+    background: url(cloud.jpg);
+}
